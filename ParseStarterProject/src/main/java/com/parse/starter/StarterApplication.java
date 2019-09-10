@@ -28,6 +28,13 @@ public class StarterApplication extends Application {
     // Enable Local Datastore.
     Parse.enableLocalDatastore(this);
 
+    Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
+            .applicationId("ca8e6e3048ab21f4fbe73194e8eca283283497f1")
+            .clientKey("1bd1ff32eef28e74cad4757e673444a186f84a72")
+            .server("http://52.14.187.146:80/parse/")
+            .build()
+    );
+
     ParseUser.enableAutomaticUser();
 
     ParseACL defaultACL = new ParseACL();

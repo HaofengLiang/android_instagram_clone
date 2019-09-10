@@ -8,10 +8,11 @@ MERGED from [com.google.android.gms:play-services:9.4.0] C:\Users\jimmy\.gradle\
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\62d04d65571db4a21c37e69bab78b2b2\play-services-cast-framework-9.4.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\cbdff4e0aa43720807fdce1f231da790\play-services-cast-9.4.0\AndroidManifest.xml:16:1-20:12
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\68ee41e6b89714cae62daae5a4e2d2c5\mediarouter-v7-23.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\92286ce0648fa0dfd1b8eeb2375384d8\appcompat-v7-23.4.0\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\0a3ad8c57653c89db3811a1c6df91c28\multidex-1.0.2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\98dcb2f66c2e0ea1686d3c0235838a82\animated-vector-drawable-23.4.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\e63dd9cc1eaa39c060ce49d5f17eb556\support-vector-drawable-23.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\0654d202bf5052238b9a260f56d1ff8b\appcompat-v7-26.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\51bdabccd6ddc5aaf93476394da08ccc\multidex-1.0.0\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\c8390c608d9ebd3960e8c9af3469d9e0\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\b98a2739a4ceb6415c6888ea1948bc43\animated-vector-drawable-26.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\037be2c52067846b2b14d8047acce8a0\support-vector-drawable-26.0.0\AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\c86823458987b8b1219da1cb73109b09\play-services-ads-9.4.0\AndroidManifest.xml:16:1-20:12
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\ea48b59582a2b96a00d654997189c575\play-services-ads-lite-9.4.0\AndroidManifest.xml:16:1-33:12
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\ba27721d7e6125cef0d651ba6eac44aa\play-services-analytics-9.4.0\AndroidManifest.xml:16:1-28:12
@@ -58,7 +59,12 @@ MERGED from [com.google.firebase:firebase-common:9.4.0] C:\Users\jimmy\.gradle\c
 MERGED from [com.google.android.gms:play-services-gass:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\a5e10dbc17ea2aeabd61f2bc5c49609c\play-services-gass-9.4.0\AndroidManifest.xml:16:1-20:12
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\a362bbbd36b86ca5802413b64945979d\play-services-tasks-9.4.0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\982829d83eab7b7a5559639ab2d7f60e\play-services-basement-9.4.0\AndroidManifest.xml:16:1-26:12
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\b7a9e4f72362272e872d13974174317a\support-v4-23.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\d49667a0c901a9f575f8b8ecd1924b2d\support-v4-26.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\76cf13102ede2adfdf114143e89d7868\support-media-compat-26.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\744fcf3495ffbde9cd6745cd5c3cec35\support-fragment-26.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\41624a9d24fbf3c19564ab420c3d12f9\support-core-utils-26.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\a1d8bd84cf0dd6bd22dd9c6c3ce599ce\support-core-ui-26.0.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\19b763e94c943015b826ef759aa873b2\support-compat-26.0.0\AndroidManifest.xml:17:1-31:12
 INJECTED from C:\Users\jimmy\Desktop\MobileDevelopment\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
 INJECTED from C:\Users\jimmy\Desktop\MobileDevelopment\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
 INJECTED from C:\Users\jimmy\Desktop\MobileDevelopment\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-38:12
@@ -144,12 +150,14 @@ MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\jimmy\.gr
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\cbdff4e0aa43720807fdce1f231da790\play-services-cast-9.4.0\AndroidManifest.xml:19:5-20
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\68ee41e6b89714cae62daae5a4e2d2c5\mediarouter-v7-23.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\68ee41e6b89714cae62daae5a4e2d2c5\mediarouter-v7-23.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\92286ce0648fa0dfd1b8eeb2375384d8\appcompat-v7-23.4.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\92286ce0648fa0dfd1b8eeb2375384d8\appcompat-v7-23.4.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\98dcb2f66c2e0ea1686d3c0235838a82\animated-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\98dcb2f66c2e0ea1686d3c0235838a82\animated-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\e63dd9cc1eaa39c060ce49d5f17eb556\support-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\e63dd9cc1eaa39c060ce49d5f17eb556\support-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\0654d202bf5052238b9a260f56d1ff8b\appcompat-v7-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\0654d202bf5052238b9a260f56d1ff8b\appcompat-v7-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\c8390c608d9ebd3960e8c9af3469d9e0\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\c8390c608d9ebd3960e8c9af3469d9e0\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\b98a2739a4ceb6415c6888ea1948bc43\animated-vector-drawable-26.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\b98a2739a4ceb6415c6888ea1948bc43\animated-vector-drawable-26.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\037be2c52067846b2b14d8047acce8a0\support-vector-drawable-26.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\037be2c52067846b2b14d8047acce8a0\support-vector-drawable-26.0.0\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\ea48b59582a2b96a00d654997189c575\play-services-ads-lite-9.4.0\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\ea48b59582a2b96a00d654997189c575\play-services-ads-lite-9.4.0\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\ba27721d7e6125cef0d651ba6eac44aa\play-services-analytics-9.4.0\AndroidManifest.xml:27:5-20
@@ -224,8 +232,18 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\jimmy\.g
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\a362bbbd36b86ca5802413b64945979d\play-services-tasks-9.4.0\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\982829d83eab7b7a5559639ab2d7f60e\play-services-basement-9.4.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\982829d83eab7b7a5559639ab2d7f60e\play-services-basement-9.4.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\b7a9e4f72362272e872d13974174317a\support-v4-23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\b7a9e4f72362272e872d13974174317a\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\d49667a0c901a9f575f8b8ecd1924b2d\support-v4-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\d49667a0c901a9f575f8b8ecd1924b2d\support-v4-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\76cf13102ede2adfdf114143e89d7868\support-media-compat-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\76cf13102ede2adfdf114143e89d7868\support-media-compat-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\744fcf3495ffbde9cd6745cd5c3cec35\support-fragment-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\744fcf3495ffbde9cd6745cd5c3cec35\support-fragment-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\41624a9d24fbf3c19564ab420c3d12f9\support-core-utils-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\41624a9d24fbf3c19564ab420c3d12f9\support-core-utils-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\a1d8bd84cf0dd6bd22dd9c6c3ce599ce\support-core-ui-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\a1d8bd84cf0dd6bd22dd9c6c3ce599ce\support-core-ui-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\19b763e94c943015b826ef759aa873b2\support-compat-26.0.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\19b763e94c943015b826ef759aa873b2\support-compat-26.0.0\AndroidManifest.xml:25:5-29:19
 	android:label
 		ADDED from C:\Users\jimmy\Desktop\MobileDevelopment\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:22:9-41
 	android:icon
@@ -264,14 +282,16 @@ MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\jimmy\.gr
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\cbdff4e0aa43720807fdce1f231da790\play-services-cast-9.4.0\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\68ee41e6b89714cae62daae5a4e2d2c5\mediarouter-v7-23.0.0\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\68ee41e6b89714cae62daae5a4e2d2c5\mediarouter-v7-23.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\92286ce0648fa0dfd1b8eeb2375384d8\appcompat-v7-23.4.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\92286ce0648fa0dfd1b8eeb2375384d8\appcompat-v7-23.4.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\0a3ad8c57653c89db3811a1c6df91c28\multidex-1.0.2\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:multidex:1.0.2] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\0a3ad8c57653c89db3811a1c6df91c28\multidex-1.0.2\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\98dcb2f66c2e0ea1686d3c0235838a82\animated-vector-drawable-23.4.0\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\98dcb2f66c2e0ea1686d3c0235838a82\animated-vector-drawable-23.4.0\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\e63dd9cc1eaa39c060ce49d5f17eb556\support-vector-drawable-23.4.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\e63dd9cc1eaa39c060ce49d5f17eb556\support-vector-drawable-23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\0654d202bf5052238b9a260f56d1ff8b\appcompat-v7-26.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\0654d202bf5052238b9a260f56d1ff8b\appcompat-v7-26.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\51bdabccd6ddc5aaf93476394da08ccc\multidex-1.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\51bdabccd6ddc5aaf93476394da08ccc\multidex-1.0.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\c8390c608d9ebd3960e8c9af3469d9e0\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\c8390c608d9ebd3960e8c9af3469d9e0\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\b98a2739a4ceb6415c6888ea1948bc43\animated-vector-drawable-26.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\b98a2739a4ceb6415c6888ea1948bc43\animated-vector-drawable-26.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\037be2c52067846b2b14d8047acce8a0\support-vector-drawable-26.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\037be2c52067846b2b14d8047acce8a0\support-vector-drawable-26.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\c86823458987b8b1219da1cb73109b09\play-services-ads-9.4.0\AndroidManifest.xml:19:5-42
 MERGED from [com.google.android.gms:play-services-ads:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\c86823458987b8b1219da1cb73109b09\play-services-ads-9.4.0\AndroidManifest.xml:19:5-42
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\ea48b59582a2b96a00d654997189c575\play-services-ads-lite-9.4.0\AndroidManifest.xml:23:5-42
@@ -364,12 +384,22 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\jimmy\.g
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\a362bbbd36b86ca5802413b64945979d\play-services-tasks-9.4.0\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\982829d83eab7b7a5559639ab2d7f60e\play-services-basement-9.4.0\AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\982829d83eab7b7a5559639ab2d7f60e\play-services-basement-9.4.0\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\b7a9e4f72362272e872d13974174317a\support-v4-23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\b7a9e4f72362272e872d13974174317a\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\d49667a0c901a9f575f8b8ecd1924b2d\support-v4-26.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\d49667a0c901a9f575f8b8ecd1924b2d\support-v4-26.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\76cf13102ede2adfdf114143e89d7868\support-media-compat-26.0.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\76cf13102ede2adfdf114143e89d7868\support-media-compat-26.0.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\744fcf3495ffbde9cd6745cd5c3cec35\support-fragment-26.0.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\744fcf3495ffbde9cd6745cd5c3cec35\support-fragment-26.0.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\41624a9d24fbf3c19564ab420c3d12f9\support-core-utils-26.0.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\41624a9d24fbf3c19564ab420c3d12f9\support-core-utils-26.0.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\a1d8bd84cf0dd6bd22dd9c6c3ce599ce\support-core-ui-26.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\a1d8bd84cf0dd6bd22dd9c6c3ce599ce\support-core-ui-26.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\19b763e94c943015b826ef759aa873b2\support-compat-26.0.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\19b763e94c943015b826ef759aa873b2\support-compat-26.0.0\AndroidManifest.xml:21:5-23:58
 INJECTED from C:\Users\jimmy\Desktop\MobileDevelopment\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
 INJECTED from C:\Users\jimmy\Desktop\MobileDevelopment\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\92286ce0648fa0dfd1b8eeb2375384d8\appcompat-v7-23.4.0\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\0654d202bf5052238b9a260f56d1ff8b\appcompat-v7-26.0.0\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\jimmy\Desktop\MobileDevelopment\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
 		ADDED from C:\Users\jimmy\Desktop\MobileDevelopment\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
@@ -390,6 +420,28 @@ service#com.google.android.gms.cast.framework.ReconnectionService
 ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\62d04d65571db4a21c37e69bab78b2b2\play-services-cast-framework-9.4.0\AndroidManifest.xml:8:9-92
 	android:name
 		ADDED from [com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\62d04d65571db4a21c37e69bab78b2b2\play-services-cast-framework-9.4.0\AndroidManifest.xml:8:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\0654d202bf5052238b9a260f56d1ff8b\appcompat-v7-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\b98a2739a4ceb6415c6888ea1948bc43\animated-vector-drawable-26.0.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\b98a2739a4ceb6415c6888ea1948bc43\animated-vector-drawable-26.0.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\037be2c52067846b2b14d8047acce8a0\support-vector-drawable-26.0.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\037be2c52067846b2b14d8047acce8a0\support-vector-drawable-26.0.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\d49667a0c901a9f575f8b8ecd1924b2d\support-v4-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\d49667a0c901a9f575f8b8ecd1924b2d\support-v4-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\76cf13102ede2adfdf114143e89d7868\support-media-compat-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\76cf13102ede2adfdf114143e89d7868\support-media-compat-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\744fcf3495ffbde9cd6745cd5c3cec35\support-fragment-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\744fcf3495ffbde9cd6745cd5c3cec35\support-fragment-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\41624a9d24fbf3c19564ab420c3d12f9\support-core-utils-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\41624a9d24fbf3c19564ab420c3d12f9\support-core-utils-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\a1d8bd84cf0dd6bd22dd9c6c3ce599ce\support-core-ui-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\a1d8bd84cf0dd6bd22dd9c6c3ce599ce\support-core-ui-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\19b763e94c943015b826ef759aa873b2\support-compat-26.0.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\19b763e94c943015b826ef759aa873b2\support-compat-26.0.0\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\0654d202bf5052238b9a260f56d1ff8b\appcompat-v7-26.0.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\0654d202bf5052238b9a260f56d1ff8b\appcompat-v7-26.0.0\AndroidManifest.xml:27:13-51
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\jimmy\.gradle\caches\transforms-2\files-2.1\ea48b59582a2b96a00d654997189c575\play-services-ads-lite-9.4.0\AndroidManifest.xml:26:9-29:64
 	android:configChanges
